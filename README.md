@@ -90,8 +90,7 @@ SearchByPublication
 
 ### ✅ Observer Pattern
 
-- Used with Checkout Service
-- Notifying NotificationService handle method once a book is available in Library.
+"When a book becomes available, I publish a domain event. ReservationListener listens and notifies the next user. This decouples circulation from notification and follows the Observer pattern."
 
 
 ## 🧩 Key Learnings
