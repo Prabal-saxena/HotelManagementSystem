@@ -1,5 +1,3 @@
-Library Management System – Low Level Design (Java + Spring Boot + JPA)
-
 # 📚 Library Management System
 
 A professional **Library Management System backend** built using **Java, Spring Boot, JPA (Hibernate), and H2**.
